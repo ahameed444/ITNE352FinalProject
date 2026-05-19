@@ -1,7 +1,9 @@
 # ITNE352Project: Recipe discovery Client-Server System
 
-**Created by:** Ayman Hameed Abdulla (20184015)
+**Created by:** Ayman Hameed Abdulla /20184015 (No group Name)
+**Section:** 1
 **Supervised by:** Dr. Mohammed Almeer
+**Semester:** Second Semester(2025/2026)
 
 ---
 
